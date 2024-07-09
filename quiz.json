@@ -1,19 +1,74 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of mobile phone evolution.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who made the first mobile phone?",
+      "answers": ["Motorola", "Nokia", "Apple"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "When was the first iPhone released?",
+      "answers": ["2007", "2005", "2009"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What was Nokia's famous phone?",
+      "answers": ["3310", "3210", "3410"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which phone had a physical keyboard?",
+      "answers": ["BlackBerry", "iPhone", "Nexus"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What OS did the first Android phone use?",
+      "answers": ["Cupcake", "Donut", "Eclair"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which phone is known for its durability?",
+      "answers": ["Nokia", "iPhone", "Galaxy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the main feature of smartphones?",
+      "answers": ["Touchscreen", "Keypad", "Stylus"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who made the first flip phone?",
+      "answers": ["Motorola", "Nokia", "Samsung"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What was the first 5G phone?",
+      "answers": ["Galaxy", "iPhone", "Pixel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which company makes the Pixel?",
+      "answers": ["Google", "Apple", "Samsung"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What was the first color screen phone?",
+      "answers": ["T68", "iPhone", "BlackBerry"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What year was 4G introduced?",
+      "answers": ["2009", "2007", "2011"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which phone popularized the app store?",
+      "answers": ["iPhone", "Nokia", "Motorola"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which phone is known for its stylus?",
+      "answers": ["Note", "iPhone", "Pixel"],
       "correctAnswerIndex": 0
     }
   ]
